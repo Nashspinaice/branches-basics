@@ -2,6 +2,6 @@
 
 main()
 {
-	printf("trpo laba");
+	printf("trpo lazxzxzxzxzxba");
 }
 
